@@ -5,4 +5,6 @@ This is the project source for the Coding Social Network tutorial at Stuk.io
 ==== Ruby Version: >= 2.2.2
 ==== Rails Version >= 4.2.5
 
+Added some text to test branching.
+
 <tt>rake doc:app</tt>.
