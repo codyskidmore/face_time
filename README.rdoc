@@ -1,4 +1,4 @@
-== faceTime
+= faceTime
 
 This is the project source for the Coding Social Network tutorial at Stuk.io
 
